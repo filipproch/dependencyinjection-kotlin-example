@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app-kodein/app-kodein.iml" filepath="$PROJECT_DIR$/app-kodein/app-kodein.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-koin/app-koin.iml" filepath="$PROJECT_DIR$/app-koin/app-koin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependencyinjectionkotlin.iml" filepath="$PROJECT_DIR$/dependencyinjectionkotlin.iml" />
+    </modules>
+  </component>
+</project>
